@@ -1,240 +1,291 @@
-<!-- ======================= -->
-<!--       HEADER            -->
-<!-- ======================= -->
 
-<h1 align="center">
-  Hi 👋, I'm G-Bach
-</h1>
+<!-- ===================== HEADER ===================== -->
 
-<h3 align="center">
-  Physics • Software • Engineering
-</h3>
-
-<p align="center">
-  I enjoy building projects that combine science, technology, and creativity.
-</p>
-
-<p align="center">
-  <a href="https://nguyen-gia-bach-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nguyengiabach">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<!-- ======================= -->
-<!--     TYPING ANIMATION    -->
-<!-- ======================= -->
-
-<p align="center">
+<div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Physics+Enthusiast;Software+Developer;Engineering+%26+Robotics;Building+things+for+fun"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=F75C7E&background=00000000&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+G-Bach+%F0%9F%91%8B;Physics+%7C+Software+%7C+Engineering;Student+%2B+Builder+%2B+Code+Enthusiast"
     alt="Typing SVG"
   />
-</p>
+</div>
 
----
-
-<!-- ======================= -->
-<!--       ABOUT ME          -->
-<!-- ======================= -->
-
-## 👨‍💻 About Me
-
-- 🎓 Engineering student who enjoys coding for fun
-- 🔭 Interested in **Physics, Software Development, and Robotics**
-- 🌌 Interested in **space, astronomy, and engineering**
-- 💻 I enjoy turning ideas into real projects
-- 🚀 Currently exploring new technologies and building new things
-- 🌏 Based in **Da Nang, Vietnam**
-
----
-
-<!-- ======================= -->
-<!--       PROJECTS          -->
-<!-- ======================= -->
-
-## 🚀 Featured Projects
-
-### 🔭 James Webb Space Telescope Project
-
-An interactive web project related to the **James Webb Space Telescope**.
-
-**Tech:** TypeScript • Web Development
-
-<p>
-  <a href="https://github.com/nguyengiabachLQDDN/finale-frontend-jwst-project">
-    <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<br>
-
-### 🌌 EMBIGGEN YOUR EYES — NASA Space Apps Challenge
-
-A project created for the **NASA Space Apps Challenge**, exploring astronomy and space through technology.
-
-<p>
-  <a href="https://github.com/nguyengiabachLQDDN/EMBIGGEN-YOUR-EYES-NASA-SPACEAPPCHALLENGE">
-    <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<br>
-
-### 💻 Vibe Coding Platform
-
-An experimental platform focused on exploring new ways of building software.
-
-**Tech:** TypeScript
-
-<p>
-  <a href="https://github.com/nguyengiabachLQDDN/vibe-coding-platform">
-    <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<br>
-
-### 🌐 Personal Portfolio
-
-My bilingual portfolio showcasing projects involving **physics, software, and robotics**.
-
-**Tech:** TypeScript • Web Development
-
-<p>
-  <a href="https://github.com/nguyengiabachLQDDN/nguyen-gia-bach-portfolio">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-
+<div align="center">
   <a href="https://nguyen-gia-bach-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Website-Vercel-000000?style=for-the-badge&logo=vercel" />
+    <img
+      src="https://img.shields.io/badge/🌐_Portfolio-F75C7E?style=for-the-badge&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
-</p>
 
----
-
-<!-- ======================= -->
-<!--       TECH STACK        -->
-<!-- ======================= -->
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-</p>
-
-### Frameworks & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
-</p>
-
-### Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
-
----
-
-<!-- ======================= -->
-<!--       GITHUB STATS      -->
-<!-- ======================= -->
-
-## 📊 GitHub Stats
-
-<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyengiabachLQDDN&theme=github_dark"
-    alt="GitHub Profile Summary"
+    src="https://komarev.com/ghpvc/?username=nguyengiabachLQDDN&label=Profile%20Views&color=F75C7E&style=for-the-badge"
+    alt="Profile Views"
   />
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
+  <h3>
+    👨‍💻 Student developer from Vietnam 🇻🇳 <br>
+    🎓 LQD High School for the Gifted <br>
+    🚀 Building projects around <b>Physics, Software & Engineering</b>
+  </h3>
+</div>
+
+---
+
+<!-- ===================== FEATURED PROJECT ===================== -->
+
+### 🌟 Featured Build — JWST Project
+
+> **JWST Project** is one of my featured web projects inspired by the
+> **James Webb Space Telescope** and space exploration.
+>
+> Built as an interactive frontend project combining my interests in
+> **astronomy, physics, and software development**.
+
+<div align="center">
+
+| | |
+|:--|:--|
+| ⚛️ **Frontend** | React · TypeScript |
+| ⚡ **Build Tool** | Vite |
+| 🎨 **Styling** | Tailwind CSS |
+| 🌌 **Focus** | Astronomy · JWST · Web Development |
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/nguyengiabachLQDDN/finale-frontend-jwst-project">
+    <img
+      src="https://img.shields.io/badge/🚀_View_Project-GitHub-4B8BBE?style=for-the-badge&logo=github&logoColor=white"
+      alt="JWST Project"
+    />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/nguyengiabachLQDDN/EMBIGGEN-YOUR-EYES-NASA-SPACEAPPCHALLENGE">
+    <img
+      src="https://img.shields.io/badge/🛰️_NASA_Space_Apps-Project-F75C7E?style=for-the-badge"
+      alt="NASA Space Apps"
+    />
+  </a>
+
+  <a href="https://github.com/nguyengiabachLQDDN/vibe-coding-platform">
+    <img
+      src="https://img.shields.io/badge/💻_Vibe_Coding-Platform-4B8BBE?style=for-the-badge"
+      alt="Vibe Coding Platform"
+    />
+  </a>
+</div>
+
+---
+
+<!-- ===================== TOOLKIT ===================== -->
+
+### 🛠️ The Toolkit
+
+<div align="center">
+
+  <p><b>Languages</b></p>
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyengiabachLQDDN&theme=github_dark"
+    src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark"
+    alt="Languages"
+  />
+
+  <p><b>Web & Frameworks</b></p>
+
+  <img
+    src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,tailwind&theme=dark"
+    alt="Web Technologies"
+  />
+
+  <p><b>Tools</b></p>
+
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma&theme=dark"
+    alt="Tools"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<details>
+  <summary><b>🚀 What I'm Into</b></summary>
+
+  <br>
+
+  🔭 Physics & Astronomy
+
+  🌌 Space Exploration
+
+  🤖 Robotics & Engineering
+
+  💻 Software Development
+
+  🌐 Web Development
+
+  🚀 Building things for fun
+
+</details>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+### 📊 The Stats
+
+<div align="center">
+
+  <img
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyengiabachLQDDN&theme=radical"
     alt="GitHub Stats"
   />
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyengiabachLQDDN&theme=github_dark"
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyengiabachLQDDN&theme=radical"
     alt="Top Languages"
   />
-</p>
 
----
+</div>
 
-<!-- ======================= -->
-<!--       GITHUB STREAK     -->
-<!-- ======================= -->
+<br>
 
-## 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=nguyengiabachLQDDN&theme=github-dark-blue&hide_border=true"
+    src="https://streak-stats.demolab.com?user=nguyengiabachLQDDN&theme=radical&hide_border=true&background=00000000&ring=F75C7E&fire=F75C7E&currStreakLabel=4B8BBE"
     alt="GitHub Streak"
   />
-</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyengiabachLQDDN&theme=radical"
+    alt="GitHub Profile Details"
+  />
+
+</div>
 
 ---
 
-<!-- ======================= -->
-<!--      PRODUCTIVITY       -->
-<!-- ======================= -->
+<!-- ===================== ACTIVITY GRAPH ===================== -->
 
-## ⚡ Coding Activity
+### 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyengiabachLQDDN&theme=github_dark&utcOffset=7"
-    alt="Productive Time"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nguyengiabachLQDDN&theme=react-dark&bg_color=00000000&color=F75C7E&line=4B8BBE&point=ffffff&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
   />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyengiabachLQDDN&theme=github_dark"
-    alt="Most Used Languages"
-  />
-</p>
+
+</div>
 
 ---
 
-<!-- ======================= -->
-<!--       CONNECT           -->
-<!-- ======================= -->
+<!-- ===================== FEATURED REPOSITORIES ===================== -->
 
-## 🌐 Connect With Me
+### 🚀 More Things I've Built
 
-<p align="center">
+<div align="center">
+
+  <a href="https://github.com/nguyengiabachLQDDN/finale-frontend-jwst-project">
+    <img
+      src="https://img.shields.io/badge/🔭_JWST_Project-Explore-F75C7E?style=for-the-badge"
+      alt="JWST Project"
+    />
+  </a>
+
+  <a href="https://github.com/nguyengiabachLQDDN/EMBIGGEN-YOUR-EYES-NASA-SPACEAPPCHALLENGE">
+    <img
+      src="https://img.shields.io/badge/🌌_NASA_Space_Apps-Explore-4B8BBE?style=for-the-badge"
+      alt="NASA Space Apps"
+    />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/nguyengiabachLQDDN/vibe-coding-platform">
+    <img
+      src="https://img.shields.io/badge/💻_Vibe_Coding_Platform-Explore-F75C7E?style=for-the-badge"
+      alt="Vibe Coding Platform"
+    />
+  </a>
+
+  <a href="https://github.com/nguyengiabachLQDDN/nguyen-gia-bach-portfolio">
+    <img
+      src="https://img.shields.io/badge/🌐_Personal_Portfolio-Explore-4B8BBE?style=for-the-badge"
+      alt="Portfolio"
+    />
+  </a>
+
+</div>
+
+---
+
+<!-- ===================== SOCIALS ===================== -->
+
+### 🤙 Hit me up
+
+<div align="center">
 
   <a href="https://nguyen-gia-bach-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Website-Portfolio-F75C7E?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Website"
+    />
   </a>
 
   <a href="https://www.linkedin.com/in/nguyengiabach">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Nguyen_Gia_Bach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://www.facebook.com/gbachnguyen">
+    <img
+      src="https://img.shields.io/badge/Facebook-G--Bach-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
   </a>
 
   <a href="https://github.com/nguyengiabachLQDDN">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/GitHub-nguyengiabachLQDDN-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
-</p>
+</div>
 
----
+<br>
 
-<!-- ======================= -->
-<!--        FOOTER           -->
-<!-- ======================= -->
+<!-- ===================== FOOTER ===================== -->
 
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Explore%20%7C%20Build%20%7C%20Learn&fontSize=30&fontColor=fff&animation=fadeIn&fontAlign=50"
+    width="100%"
+    alt="Footer"
+  />
+
+</div>
+```
