@@ -1,4 +1,3 @@
-
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
@@ -26,7 +25,7 @@
 
 <div align="center">
   <h3>
-    👨‍💻 Engineering Student from Vietnam 🇻🇳 <br>
+    👨‍💻 Student developer from Vietnam 🇻🇳 <br>
     🎓 LQD High School for the Gifted <br>
     🚀 Building projects around <b>Physics, Software & Engineering</b>
   </h3>
@@ -144,43 +143,39 @@
 
 ### 📊 The Stats
 
-<div align="center">
+<!-- Stats + Languages nằm ngang, phủ gần hết chiều rộng -->
 
+<p align="center">
   <img
-    height="180em"
+    width="49%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyengiabachLQDDN&theme=radical"
     alt="GitHub Stats"
-  />
-
-  <img
-    height="180em"
+  /><img
+    width="49%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyengiabachLQDDN&theme=radical"
     alt="Top Languages"
   />
+</p>
 
-</div>
+<!-- Streak kéo rộng -->
 
-<br>
-
-<div align="center">
-
+<p align="center">
   <img
+    width="98%"
     src="https://streak-stats.demolab.com?user=nguyengiabachLQDDN&theme=radical&hide_border=true&background=00000000&ring=F75C7E&fire=F75C7E&currStreakLabel=4B8BBE"
     alt="GitHub Streak"
   />
+</p>
 
-</div>
+<!-- Profile details kéo full width -->
 
-<br>
-
-<div align="center">
-
+<p align="center">
   <img
+    width="98%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyengiabachLQDDN&theme=radical"
     alt="GitHub Profile Details"
   />
-
-</div>
+</p>
 
 ---
 
@@ -288,4 +283,3 @@
   />
 
 </div>
-```
