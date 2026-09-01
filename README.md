@@ -26,7 +26,7 @@
 
 <div align="center">
   <h3>
-    👨‍💻 Student developer from Vietnam 🇻🇳 <br>
+    👨‍💻 Engineering Student from Vietnam 🇻🇳 <br>
     🎓 LQD High School for the Gifted <br>
     🚀 Building projects around <b>Physics, Software & Engineering</b>
   </h3>
